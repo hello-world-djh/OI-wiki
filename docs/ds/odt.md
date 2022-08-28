@@ -98,3 +98,10 @@ void performance(int l, int r) {
 - [「SHOI2015」脑洞治疗仪](https://loj.ac/problem/2037)
 - [「Luogu 2787」理理思维](https://www.luogu.com.cn/problem/P2787)
 - [「Luogu 4979」矿洞：坍塌](https://www.luogu.com.cn/problem/P4979)
+
+注：以上习题皆已证明珂朵莉树复杂度不对，使用珂朵莉树做以上题目将会 TLE。珂朵莉树能 AC 的题目必须为随机数据，如下列题目：
+
+-[CF915E](https://codeforces.com/problemset/problem/915/E)
+-[「Luogu P5350」序列](https://www.luogu.com.cn/problem/P5350)
+-[「Luogu SP13015」	CNTPRIME - Counting Primes](https://www.luogu.com.cn/problem/SP13015)
+-[「LnOI2019」第二代图灵机](https://www.luogu.com.cn/problem/P5251)
